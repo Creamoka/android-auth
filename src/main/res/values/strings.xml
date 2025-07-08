@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">auth</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="default_web_client_id">732566690196-s30jqiifcvo787nlc7sibmbvg74q314t.apps.googleusercontent.com</string>
+</resources>
